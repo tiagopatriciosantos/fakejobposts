@@ -12,4 +12,7 @@ _The original source of the data can be found [here](https://www.kaggle.com/data
 
 1. Created the notebook with deep analysis to the dataset
 
+->[Find the notebook here](notebook.ipynb)<-
+
 2. Created a project on DagsHub to keep track of experiments, making code versioning and data versioning
+->[Find the project here](https://dagshub.com/tiagopatriciosantos/Fake_job_postings)<-
